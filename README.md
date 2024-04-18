@@ -73,4 +73,6 @@ Nota: vengono distribuite delle dispense digitali in classe.
 - [Three.js](https://threejs.org)
 - [thi.ng](https://thi.ng)
 
-#### Jane Doe:
+=======
+#### Gruppi di lavoro
+>>>>>>> 678c90781fefe61585f7a41229d3261a0bfd28ba
